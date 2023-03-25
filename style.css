@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+.form-js{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-top: 60px;
+}
+.car-name{
+    width: 500px;
+    padding: 10px;
+    outline: none;
+    font-size: 16px;
+}
+.model-name{
+    width: 500px;
+    padding: 10px;
+    outline: none;
+    font-size: 16px;
+}
+.year-name{
+    width: 500px;
+    padding: 10px;
+    outline: none;
+    font-size: 16px;
+}
+label > p{
+    font-size: 25px;
+    margin-left: -450px;
+}
+.model{
+    margin-left: -430px;
+}
+.btn{
+    padding: 10px;
+    margin-left: 930px;
+    margin-top: 50px;
+}
+.table-js{
+    margin-left: 700px;
+    padding-top: 30px;
+    font-size: 25px;
+    width: 750px;
+    margin: 0 auto;
+    margin-left: 550px;
+}
